@@ -1,5 +1,6 @@
 # unikut
-Projeto da cadeira Programação III ----
+Projeto da cadeira Programação III 
+-----------------------------------------------------------------------------
 O Unikut é uma rede social com as funcionalidades de criar contas, fazer amizades, enviar recados e etc.
 -----------------------------------------------------------------------------
 Neste projeto foi utilizada a arquitetura MVC, o padrão de projeto Factory Method,
